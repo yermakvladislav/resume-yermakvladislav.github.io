@@ -1,0 +1,26 @@
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 16px;
+	background-color:#F8FAFC;
+}
+
+main {
+	margin-top: 60px;
+}
+
+nav {
+	position: fixed;
+	background-color:#F8FAFC;
+}
+
+
+h2 {
+	color:darkred;
+}
+
+section {
+	color:#1F2937;
+	border: 1px solid #8B0000;
+	border-radius: 8px;
+}
+
